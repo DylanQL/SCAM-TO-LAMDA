@@ -1,1 +1,3 @@
+git config --global user.name "AndresCarrascoR"
+git config --global user.email "andres.carrasco@tecsup.edu.pe"
 
